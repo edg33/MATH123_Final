@@ -69,7 +69,8 @@ Three clustering methods were applied using **Scikit-Learn**:
 
 - **Music Recommendation System**: Build **playlist generators** using discovered clusters.  
 - **Feature Engineering**: Create new **human-defined** features to improve clustering.  
-- **Graph-Based Model**: Explore **multi-armed bandit** approaches for music recommendations based on user engagement (e.g., skip rates).  
+- **Graph-Based Model**: Explore **multi-armed bandit** approaches for music recommendations based on user engagement (e.g., skip rates).
+- **Derive New Audio Features**: Due to changes in terms in conditions and API deprecation, future work would require the derivation of new audio features.
 
 ## References  
 
